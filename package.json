@@ -1,0 +1,23 @@
+{
+  "name": "employee-tracker-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XDSirius/Employee-Tracker-Dashboard.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XDSirius/Employee-Tracker-Dashboard/issues"
+  },
+  "homepage": "https://github.com/XDSirius/Employee-Tracker-Dashboard#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "mysql2": "^3.5.2"
+  }
+}
