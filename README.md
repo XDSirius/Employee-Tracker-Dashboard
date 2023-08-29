@@ -13,6 +13,9 @@ npm i
 
 Once the dependencies are installed, you must go into the terminal and type: mysql "-u root -p". Finish logging in. Once logged in then please source your data using SOURCE db/schema.sql and then type SOURCE db/seeds.sql. Once finished, type "exit". Now you are ready to use the program. Type "node index.js" to begin. Once it starts up, use the arrow keys to navigate. Hit Enter to select the option. From there, follow the instructions in the terminal to complete the task.
 
+Here is a video tutorial.
+
+https://watch.screencastify.com/v/atkvRFESAA2eZI6AIvAV
 
 ## Credits
 Resources, guidance, and tutoring all from the University of Minnesota Bootcamp
